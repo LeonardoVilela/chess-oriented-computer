@@ -1,2 +1,2 @@
-#C.O.C
-##Chess Oriented Computer
+# C.O.C
+## Chess Oriented Computer
